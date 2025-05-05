@@ -21,9 +21,7 @@ Cinemat is a ticket reservation system developed using Laravel 8. It has feature
 -   File uploads
 -   Searching and filtering through models
 
-## Usage
 
-You can find a link to the website **[here](https://cinemat.zeiadmohamed.dev)**. The website has some movies already created, but you can log in as a manager and edit or create new movies. **[login](https://cinemat.zeiadmohamed.dev/login)**
 
 > Note: The website resets automatically every 30 minutes.
 
