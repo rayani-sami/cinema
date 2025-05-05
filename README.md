@@ -3,7 +3,7 @@
 # About Project
 
 Cinemat is a ticket reservation system developed using Laravel 8. It has features like user roles, authentication, automated reservations, and much more.
-See the live demo **[here](https://cinemat.zeiadmohamed.dev)**.
+
 
 ## What I learned
 
